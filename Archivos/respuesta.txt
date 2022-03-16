@@ -1,0 +1,1 @@
+El git no reconoció cambios al crear la carpeta
