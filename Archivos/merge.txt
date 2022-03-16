@@ -1,4 +1,11 @@
-Andrés Felipe Aparicio Mestre 
-24 años
+¿Por qué ahora si puedo crear un commit y subir la carpeta?:
+La carpeta ya no está vacía y ahora si reconoce los archivos en ella y detecta sus cambios.
 
-En esta materia aspiro adquirir y afianzar conocimientos de programación aplicables a mi desarrollo profesional.
+Nombre: Andrés Felipe Aparicio Mestre 
+Edad: 24 años
+
+Aspiraciones: En esta materia aspiro adquirir y afianzar conocimientos de programación aplicables a mi desarrollo profesional.
+
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?:
+Se pueden generar errores de compatibilidad entre las versiones del mismo o de varios archivos.
