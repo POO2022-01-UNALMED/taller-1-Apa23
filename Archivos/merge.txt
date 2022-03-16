@@ -1,0 +1,1 @@
+La carpeta ya no está vacía y ahora si reconoce los archivos en ella y detecta sus cambios.
