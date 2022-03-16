@@ -2,3 +2,5 @@ Ingrese a continuación su primer apellido: Aparicio
 
 Ingrese a continuación su segundo apellido: Mestre
 
+¿Por qué, a diferencia de hobby.txt, no hubo conflictos en apellidos.txt?:
+Al ser modificadas lineas diferentes del texto no se presentaron conflictos entre las versiones de las ramas.
